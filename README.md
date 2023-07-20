@@ -1,5 +1,15 @@
 ## Highlighted Research Projects from our research group:
 
+<a href="https://github.com/harlanhong/CVPR2022-DaGAN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harlanhong&repo=CVPR2022-DaGAN" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+
+
 
 <table>
 <tr>
