@@ -1,3 +1,3 @@
 # XVG
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=Xu-Vision-Group&repo=Xu-Vision-Group) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Xu-Vision-Group&repo=github-readme-stats)](https://github.com/Xu-Vision-Group/github-readme-stats)
