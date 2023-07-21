@@ -23,17 +23,20 @@
 <tr>
 </tr>
 <tr>
-<td>
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&repo=GBi-Net)](https://github.com/MiZhenxing/GBi-Net)
-
-</td>
 
 <td>
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=Multi-Task-Transformer)](https://github.com/prismformore/Multi-Task-Transformer)
 
 </td>
+
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MiZhenxing&repo=GBi-Net)](https://github.com/MiZhenxing/GBi-Net)
+
+</td>
+
+
 
 
 </tr>
