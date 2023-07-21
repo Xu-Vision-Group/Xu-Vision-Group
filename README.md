@@ -58,3 +58,19 @@
 
 </tr>
 </table>
+
+<table>
+<tr>
+</tr>
+<tr>
+
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danxuhk&repo=ContinuousCRF-CNN)](https://github.com/danxuhk/ContinuousCRF-CNN)
+
+</td>
+
+</tr>
+</table>
+
+
