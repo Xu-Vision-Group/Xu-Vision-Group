@@ -29,6 +29,13 @@
 
 </td>
 
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=Multi-Task-Transformer)](https://github.com/prismformore/Multi-Task-Transformer)
+
+</td>
+
+
 </tr>
 </table>
 
