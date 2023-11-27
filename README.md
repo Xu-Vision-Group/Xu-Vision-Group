@@ -1,4 +1,4 @@
-## Highlighted research projects from our research group:
+## Highlighted research projects of our research group:
 
 <table>
 <tr>
