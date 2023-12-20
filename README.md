@@ -93,6 +93,23 @@
 </td>
 
 </tr>
+
+<tr>
+
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=CoDA_NeurIPS2023)](https://github.com/yangcaoai/CoDA_NeurIPS2023)
+
+</td>
+
+<td>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=seggen)](https://github.com/prismformore/seggen)
+
+</td>
+
+</tr>
+
 </table>
 
 
