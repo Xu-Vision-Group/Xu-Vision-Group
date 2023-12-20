@@ -98,13 +98,13 @@
 
 <td>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yangcaoai&repo=CoDA_NeurIPS2023)](https://github.com/yangcaoai/CoDA_NeurIPS2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=UDC-NeRF)](https://github.com/W-Ted/UDC-NeRF)
 
 </td>
 
 <td>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=seggen)](https://github.com/prismformore/seggen)
+
 
 </td>
 
