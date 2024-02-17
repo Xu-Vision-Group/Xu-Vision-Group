@@ -108,7 +108,7 @@
 
 <td>
   
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BiDiff&repo=bidiff)](https://github.com/BiDiff/bidiff)
 
 </td>
 
