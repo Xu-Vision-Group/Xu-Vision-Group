@@ -121,7 +121,7 @@
 
 <td>
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=W-Ted&repo=UDC-NeRF)](https://github.com/W-Ted/UDC-NeRF)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prismformore&repo=DiffusionMTL)](https://github.com/prismformore/DiffusionMTL)
 
 </td>
 
